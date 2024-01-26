@@ -47,8 +47,8 @@ Assurez-vous de respecter les bonnes pratiques de sécurité, notamment en utili
 3 // 
 
 
-Tout d'abord, vous devez lancer et exécuter le script schema.sql pour générer la structure.
+Tout d'abord, vous devez utiliser le script schema.sql pour générer la structure.
 
-Ensuite, lancez data.sql pour remplir la base de données.
+Ensuite, executer data.sql pour remplir la base de données.
 
-Finalement, vous avez requetes.sql à disposition pour essayer et trouver la meilleure façon d'utiliser le bus.
+Pour finir lancer requetes.sql (pas trop loin) pour disposer d'informations sur la meilleure façon d'utiliser le bus.
