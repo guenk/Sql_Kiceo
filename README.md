@@ -4,11 +4,9 @@ Database sur la ligne 2 de Vannes
 
 ---TABLE DES MATIERES---
 
-UNO - Ligne 14 : VOUS TROUVEREZ DES INFORMATIONS GENERALES POUR EXECUTER DES SCRIPTS EN SQL.
-
-DOS -  Ligne 41 : INFORMATIONS SUR LE MCD.
-
-TRES -  Ligne 47 :  SCRIPTS ET ORDRES D'EXECUTION.
+UNO - : VOUS TROUVEREZ DES INFORMATIONS GENERALES POUR EXECUTER DES SCRIPTS EN SQL.
+DOS - : INFORMTIONS SUR LE MCD.
+TRES - :  SCRIPTS ET ORDRES D'EXECUTION.
 
 
 1 // Pour exécuter des scripts SQL, vous devez suivre quelques étapes de base. Voici un guide général sur la façon de procéder :
